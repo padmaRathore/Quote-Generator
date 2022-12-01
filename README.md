@@ -1,7 +1,7 @@
 # Quote-Generator
 This project is derived from the Quote Generator section of Zero To Mastery's JavaScript Web Projects: 20 Projects to Build Your Portfolio
 
- [Live Link](https://padmarathore.github.io/Quote-Generator/)
+ #### [Live Link](https://padmarathore.github.io/Quote-Generator/)
 
 
 ### The base project covered:
