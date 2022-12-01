@@ -3,6 +3,7 @@ This project is derived from the Quote Generator section of Zero To Mastery's Ja
 
 ###Live Link
 
+https://padmarathore.github.io/Quote-Generator/
 
 
 ### The base project covered:
