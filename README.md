@@ -3,28 +3,28 @@ This project is derived from the Quote Generator section of Zero To Mastery's Ja
 
 ###Live Link
 
-![alt text](https://padmarathore.github.io/Quote-Generator/)
+
 
 ### The base project covered:
 
--Querying, Manipulating the DOM
+- Querying, Manipulating the DOM
 
--Handling DOM events
+- Handling DOM events
 
--Fetch API
+- Fetch API
 
--Twitter API
+- Twitter API
 
--Font Awesome
+- Font Awesome
 
--Google Fonts
+- Google Fonts
 
--Favicons
+- Favicons
 
--Animations
+- Animations
 
--Media Queries
+- Media Queries
 
--Pseudo Classes
+- Pseudo Classes
 
 
