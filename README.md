@@ -27,3 +27,4 @@ This project is derived from the Quote Generator section of Zero To Mastery's Ja
 - Pseudo Classes
 
 
+![img](https://user-images.githubusercontent.com/118360867/207557394-7dacacce-e507-4040-a771-22c241bac38f.png)
